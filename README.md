@@ -73,3 +73,5 @@
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+
+![snake gif](https://github.com/tushargoyalbtp/tushargoyalbtp/blob/output/github-contribution-grid-snake.svg)
