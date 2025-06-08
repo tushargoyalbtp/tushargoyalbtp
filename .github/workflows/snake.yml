@@ -1,22 +1,20 @@
-name: snake
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs daily at midnight UTC
+    - cron: '0 0 * * *'  # daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate contribution snake animation
+      - name: Generate snake animation
         uses: Platane/snk@v2
         with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: tushargoyalbtp
 
       - name: Commit updated snake animation
         run: |
