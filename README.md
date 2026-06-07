@@ -9,11 +9,10 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 Backend Engineer with **3+ years** building **scalable distributed systems**
-- 🏢 Currently at **HashedIn by Deloitte**
+- 💻 Backend Engineer with **4+ years** building **scalable distributed systems**
+- 🏢 Currently at **GE Healthcare**
 - 🔧 Tech Expertise: `Java`, `Spring Boot`, `Microservices`, `AWS`, `PostgreSQL`, `Docker`
 - 💡 Passionate about clean architecture, performance optimization & DSA
-- 🌐 Portfolio: _Coming Soon..._
 - 📫 Reach me at: [Tushargoyalbtp2000@gmail.com](mailto:Tushargoyalbtp2000@gmail.com)
 
 ---
