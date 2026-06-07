@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Goyal</h1>
-<h3 align="center">Backend Developer | Distributed Systems | AWS | Java | Spring Boot | Kafka</h3>
+<h3 align="center">Backend Developer | Distributed Systems | AWS | Java | Spring Boot</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tushargoyalbtp&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tushargoyalbtp" />
@@ -11,7 +11,7 @@
 
 - 💻 Backend Engineer with **3+ years** building **scalable distributed systems**
 - 🏢 Currently at **HashedIn by Deloitte**
-- 🔧 Tech Expertise: `Java`, `Spring Boot`, `Kafka`, `Microservices`, `AWS`, `PostgreSQL`, `Docker`
+- 🔧 Tech Expertise: `Java`, `Spring Boot`, `Microservices`, `AWS`, `PostgreSQL`, `Docker`
 - 💡 Passionate about clean architecture, performance optimization & DSA
 - 🌐 Portfolio: _Coming Soon..._
 - 📫 Reach me at: [Tushargoyalbtp2000@gmail.com](mailto:Tushargoyalbtp2000@gmail.com)
@@ -23,7 +23,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
